@@ -8,5 +8,3 @@ edit3
 edit2
 >>>>>>> feature
 edit4
-edit10
-edit11
