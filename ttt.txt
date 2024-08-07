@@ -8,5 +8,8 @@ edit3
 edit2
 >>>>>>> feature
 edit4
+<<<<<<< HEAD
 edit12
 edit13
+=======
+>>>>>>> parent of f3b1291 (before revert)
