@@ -9,3 +9,4 @@ edit2
 >>>>>>> feature
 edit4
 edit5
+edit6
