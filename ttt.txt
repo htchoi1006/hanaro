@@ -2,4 +2,8 @@ bb
 cc
 stash
 edit
+<<<<<<< HEAD
 edit3
+=======
+edit2
+>>>>>>> feature
