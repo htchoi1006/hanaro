@@ -1,2 +1,3 @@
 regist feature
 regist123
+bug fixed
